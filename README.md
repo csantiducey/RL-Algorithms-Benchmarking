@@ -1,2 +1,2 @@
 # RL-Algorithms-Benchmarking
-PettingZoo + Stable-Baselines 3 testing and comparison environment for RL algorithms.
+Gymnasium + Stable-Baselines 3 RL algo testing and environment comparison.
